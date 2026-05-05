@@ -110,7 +110,4 @@ Client / Request         ↓ Transaction Engine         ↓ Service Layer  (Vali
 ---
 
 ## Author
-Madhumita Das
-Vaishnavi Nautiyal
-Anushka Nautiyal
-Neha Arya
+Divyansh Sundriyal, Prakhar Sharma, Arshita Guleria
